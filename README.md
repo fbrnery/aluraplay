@@ -179,3 +179,4 @@ Vídeos da sessão vídeos:
                 <p>2,3 mil visualizações - Há 2 dias</p>
             </div>
         </li># alura_play
+# alura_play
